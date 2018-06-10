@@ -1,0 +1,20 @@
+C:\Users\asus\source\repos\Login Page\Login Page\bin\Debug\Login Page.exe.config
+C:\Users\asus\source\repos\Login Page\Login Page\bin\Debug\Login Page.exe
+C:\Users\asus\source\repos\Login Page\Login Page\bin\Debug\Login Page.pdb
+C:\Users\asus\source\repos\Login Page\Login Page\obj\Debug\Login Page.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Login Page\Login Page\obj\Debug\Login_Page.Form1.resources
+C:\Users\asus\source\repos\Login Page\Login Page\obj\Debug\Login_Page.Properties.Resources.resources
+C:\Users\asus\source\repos\Login Page\Login Page\obj\Debug\Login Page.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Login Page\Login Page\obj\Debug\Login Page.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Login Page\Login Page\obj\Debug\Login Page.exe
+C:\Users\asus\source\repos\Login Page\Login Page\obj\Debug\Login Page.pdb
+D:\Login Page\Login Page\bin\Debug\Login Page.exe.config
+D:\Login Page\Login Page\bin\Debug\Login Page.exe
+D:\Login Page\Login Page\bin\Debug\Login Page.pdb
+D:\Login Page\Login Page\obj\Debug\Login Page.csprojAssemblyReference.cache
+D:\Login Page\Login Page\obj\Debug\Login_Page.Form1.resources
+D:\Login Page\Login Page\obj\Debug\Login_Page.Properties.Resources.resources
+D:\Login Page\Login Page\obj\Debug\Login Page.csproj.GenerateResource.cache
+D:\Login Page\Login Page\obj\Debug\Login Page.csproj.CoreCompileInputs.cache
+D:\Login Page\Login Page\obj\Debug\Login Page.exe
+D:\Login Page\Login Page\obj\Debug\Login Page.pdb
